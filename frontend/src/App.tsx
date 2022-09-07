@@ -1,6 +1,6 @@
 
-import Header from "./assets/components/Header"
-import SalesCard from "./assets/components/SalesCard"
+import Header from "./assets/components/Header";
+import SalesCard from "./assets/components/SalesCard";
 
 function App() {
   return(
@@ -19,4 +19,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
