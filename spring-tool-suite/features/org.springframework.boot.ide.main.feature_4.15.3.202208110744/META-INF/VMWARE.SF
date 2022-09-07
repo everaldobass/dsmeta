@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+Created-By: 11.0.15 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: SL/ALCOkGaXQNV9goH5Yw8aXRhpl4BniJTiHLUAbknY=
+SHA-256-Digest-Manifest-Main-Attributes: kp3q77+p3Nn7muZU2jSGPGhGjSEGlJx
+ fLhiSkKI2PLI=
+
+Name: p2.inf
+SHA-256-Digest: ljWxahoZpRl8KI7uWp1PqQZNBlcUXZonbquZLXMPkoE=
+
+Name: feature.xml
+SHA-256-Digest: tComS7i6fIMFDBOI2N9f7DCjiEgw4MyjFCoppE2XbC8=
+
+Name: license.txt
+SHA-256-Digest: f36jc4nfUMGCt32hIdRbUdDoaRZnAROtNJglQFPX8Ck=
+
+Name: feature.properties
+SHA-256-Digest: gdlV7GCyBbID5wtOD6YrrQJO/kHsLq/chnwNI1QpMTA=
+
